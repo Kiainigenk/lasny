@@ -1,8 +1,8 @@
 ---
-title : "NEED A SERVICE?"
+title : "Keep Scrolling:)"
 bg_image : "images/backgrounds/need-service.jpg"
 button:
-  enable : true
+  enable : false
   label : "SAY HELLO!"
   link : "#contact"
 

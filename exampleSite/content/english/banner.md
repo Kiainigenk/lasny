@@ -1,26 +1,26 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "Do You want me to put your name here ?"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+first_name : "Lasny"
+last_name : ".S."
+bg_image : "images/backgrounds/paradise.png"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Keep That Heart Open"
+- "Biasa aja"
+- "<3 you"
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-1.jpg"
-- "images/slider/slider-2.jpg"
-- "images/slider/slider-3.jpg"
+- "images/slider/you2.jpg"
+- "images/slider/you2.jpg"
+- "images/slider/you3.png"
 
 # button
 button:
   enable : true
-  label : "HIRE ME"
-  link : "#contact"
+  label : "Hi:)"
+  link : "#"
 
 
 # custom style

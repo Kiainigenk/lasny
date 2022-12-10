@@ -2,23 +2,17 @@
 title : "TESTIMONIALS"
 testimonial_slider:
 # slider item loop
-- name : "Micheal Clark"
-  image : "images/clients/client1.jpg"
-  designation : "CEO, RANDOM COMPANY"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+- name : "Lasny Pakpahan"
+  image : "images/clients/lasny.png"
+  designation : "The Best Way & Too much darkness for a rainbow"
+  content : "Happy,free,confused and lonely in."
             
 # slider item loop
-- name : "Peter Parker"
-  image : "images/clients/client2.jpg"
-  designation : "CEO, RANDOM COMPANY"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+- name : "Hizkia Panggabean"
+  image : "images/clients/kia.jpg"
+  designation : "Baen na di ho hubaen na di au"
+  content : "Life is Trash Then make it worth to live for."
             
-# slider item loop
-- name : "Jessica Jones"
-  image : "images/clients/client3.jpg"
-  designation : "CEO, RANDOM COMPANY"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
-
 # custom style
 custom_class: "" 
 custom_attributes: "" 
